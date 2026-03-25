@@ -21,15 +21,12 @@ I am an **Aspiring Java Backend Developer** with a passion for building clean, s
 - Developed a secure login and registration system with a focus on data integrity and user privacy.
 - Implemented **Input Validation** and **Exception Handling** to ensure a smooth and error-free user experience.
 - Designed a relational database schema to store and retrieve user credentials securely.
-- 
+ 
 #### [License Verification System](https://github.com/kl-dhelipkumar)
 - **Tech Stack:** Java, JDBC, MySQL
 - Developed a backend system to verify license applications using PAN and Aadhaar data.
 - Implemented **Layered Architecture** (DAO and Service layers) and used **PreparedStatements** to prevent SQL injection.
 
-#### [Student Management System](https://github.com/kl-dhelipkumar)
-- **Tech Stack:** Core Java
-- Built a menu-driven application implementing full CRUD operations and OOPS principles like Encapsulation.
 
 #### [Personal Portfolio Website](https://github.com/kl-dhelipkumar)
 - **Tech Stack:** HTML, CSS, GitHub Pages
