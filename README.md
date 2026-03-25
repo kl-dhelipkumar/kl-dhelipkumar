@@ -16,7 +16,7 @@ I am an **Aspiring Java Backend Developer** with a passion for building clean, s
 
 ### 🚀 Featured Projects
 
-#### 🔐 [User Authentication System](https://github.com/kl-dhelipkumar)
+#### 🔐 [User Authentication System](https://github.com/kl-dhelipkumar/user-authentication-system.git)
 - **Tech Stack:** Java, JDBC, MySQL
 - Developed a secure login and registration system with a focus on data integrity and user privacy.
 - Implemented **Input Validation** and **Exception Handling** to ensure a smooth and error-free user experience.
